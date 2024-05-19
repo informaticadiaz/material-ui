@@ -1067,8 +1067,8 @@ importers:
         specifier: workspace:*
         version: link:../react-docgen-types
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -1101,8 +1101,8 @@ importers:
         specifier: ^18.19.33
         version: 18.19.33
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -1254,8 +1254,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -1522,8 +1522,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -1596,8 +1596,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -1685,8 +1685,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -1932,8 +1932,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -2000,8 +2000,8 @@ importers:
         specifier: 18.2.55
         version: 18.2.55
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -2075,8 +2075,8 @@ importers:
         specifier: ^18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -2219,8 +2219,8 @@ importers:
         specifier: ^18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -2278,8 +2278,8 @@ importers:
         specifier: ^18.3.0
         version: 18.3.0
       '@types/sinon':
-        specifier: ^10.0.20
-        version: 10.0.20
+        specifier: ^17.0.3
+        version: 17.0.3
       chai:
         specifier: ^4.4.1
         version: 4.4.1
@@ -8247,8 +8247,8 @@ packages:
       '@types/node': 18.19.33
     dev: false
 
-  /@types/sinon@10.0.20:
-    resolution: {integrity: sha512-2APKKruFNCAZgx3daAyACGzWuJ028VVCUDk6o2rw/Z4PXT0ogwdV4KUegW0MwVs0Zu59auPXbbuBJHF12Sx1Eg==}
+  /@types/sinon@17.0.3:
+    resolution: {integrity: sha512-j3uovdn8ewky9kRBG19bOwaZbexJu/XjtkHyjvUgt4xfPFz18dcORIMqnYh66Fx3Powhcr85NT5+er3+oViapw==}
     dependencies:
       '@types/sinonjs__fake-timers': 8.1.2
     dev: true
